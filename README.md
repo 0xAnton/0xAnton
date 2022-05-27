@@ -1,8 +1,8 @@
 - 👋 Hi, I’m 
-@0xAntonov
+@0xAnton__
 - 📫 How to reach me ...
-https://twitter.com/0xAntonov_
+https://twitter.com/0xAnton_888
 <!---
-0xAntonov/0xAntonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0xAnton/0xAnton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
