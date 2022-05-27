@@ -2,7 +2,7 @@
 @0xAnton__
 
 I use this github as a bookmark and this is where I share my favorite projects, tools and collaboration. 
-Although I am not a developper by trade, I know my way around python, Java, a bit of solidity.
+Although I am not a developper by trade, I know my way around python, Java and a bit of solidity.
 Feel free to reach out and share your projects with me. 
 
 - 📫 How to reach me ...
